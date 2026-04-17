@@ -69,23 +69,17 @@ Visualized actual vs predicted stock prices
 # Closing Price Trend
 ![Stock Trend](images/Apple_stock_clossing_price.png)
 
-# Trading Volume
+# Stock Trend Over Time
 ![Stock Trend](images/Trading_volume_over_time.png)
 
- # Distribution of daily closing price
- ![Stock Trend](images/distribution_of_clossing_price.png)
- 
-#  Distribution of Daily returns
-![Stock Trend](images/distribution_of_Daily_Return.png)
- 
 # Feature Correlation Heatmap
 ![Heatmap](images/APPL_Feature_Correlation_Heatmap.png)
 
 # APPL Actual vs Predicted Closing Prices
 ![Linnear Regression](images/Linear_Regression_Actual_Vs_Predicted.png)
 
-# Random Forest Actual vs Predicted
-![Random Forest](images/Random_Forest_Actual_Vs_predicted.png)
+# Scatter: Actual vs Predicted
+ ![Scatter](images/Scatter_Actual_Vs_predicted.png)
 
 ---
 
