@@ -135,7 +135,12 @@ Random Forest showed poor performance, indicating that complex models are not al
 
 ---
 
-# Author
-Bilal Ahmed  
-BS-IT Student — KFUEIT  
+ ##  Author
+
+**[Bilal Ahmed]**
 AI/ML Engineering Intern — DevelopersHub Corporation
+
+-  Email: bilalahmadc.m56@gmail.com
+-  GitHub: [@BilalRajput-52](https://github.com/BilalRajput-52)
+-  LinkedIn: [linkedin.com/in/bilal-ahmed56ab](https://linkedin.com/in/bilal-ahmed56ab)
+
