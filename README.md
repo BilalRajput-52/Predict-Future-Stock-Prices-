@@ -117,7 +117,7 @@ Random Forest showed poor performance, indicating that complex models are not al
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/BilalRajput-52/Predict-Future-Stock-Prices-.git
 
 2. Install dependencies:
 
